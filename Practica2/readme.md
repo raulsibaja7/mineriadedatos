@@ -5497,28 +5497,3 @@ df_cos_t01_t02
 
     0.34299717028501764
 
-
-
-
-```python
-
-
-```
-
-
-    ---------------------------------------------------------------------------
-
-    TypeError                                 Traceback (most recent call last)
-
-    <ipython-input-111-f7e4c34ab58d> in <module>
-    ----> 1 print(math.sqrt((matrix[0]-matrix[1])) )
-          2 
-
-
-    TypeError: only size-1 arrays can be converted to Python scalars
-
-
-
-```python
-
-```
